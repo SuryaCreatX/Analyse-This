@@ -1,0 +1,2 @@
+# Analyse This
+ "Analyse This" is a comprehensive tool designed to assist data scientists and analysts in gaining profound insights into their datasets, laying a solid foundation for robust machine learning modeling. With a plethora of analysis strategies and tests, this tool empowers users to understand the intricacies, patterns, and anomalies within their data, thereby facilitating informed decision-making and enhancing the quality of subsequent modeling endeavors.
